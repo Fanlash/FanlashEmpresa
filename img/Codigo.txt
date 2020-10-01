@@ -1,0 +1,22 @@
+ <section class="about-services">
+            <div class="contenedor">
+                <h2 class="titulo">Nuestros servicios</h2>
+                <div class="servicio-cont">
+                    <div class="servicio-ind">
+                        <img src="img/ilustracion1.svg" alt="">
+                        <h3>Name</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, qui?</p>
+                    </div>
+                    <div class="servicio-ind">
+                        <img src="img/ilustracion4.jpeg" alt="">
+                        <h3>¿Quieres Contactarnos?</h3>
+                        <p>Nuestra información se encuentra al final de la pagina, agradecemos tu interés.</p>
+                    </div>
+                    <div class="servicio-ind">
+                        <img src="img/ilustracion3.png" alt="">
+                        <h3></h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, qui?</p>
+                    </div>
+                </div>
+            </div>
+        </section>
